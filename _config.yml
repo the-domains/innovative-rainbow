@@ -1,0 +1,14 @@
+layout_spectrum: 0.6231597100850195
+typography_spectrum: 0.5426999463234097
+color:
+  brandStrength: 0.9459163181018084
+  lightness: 0.8632041222881526
+  saturation: 0.5704692485742271
+  rhythmicContrast: 0.7230077988933772
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: innovative rainbow
