@@ -1,14 +1,26 @@
-layout_spectrum: 0.6231597100850195
-typography_spectrum: 0.5426999463234097
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.4170213
 color:
+  saturation: 0.8744681
   brandStrength: 0.9459163181018084
-  lightness: 0.8632041222881526
-  saturation: 0.5704692485742271
-  rhythmicContrast: 0.7230077988933772
+  lightness: 0.8632041
   brandColors:
     - '#25064D'
     - '#36175E'
     - '#553285'
     - '#7B52AB'
     - '#9768D1'
+  rhythmicContrast: 0.7914894
+layout_spectrum: 1
 name: innovative rainbow
